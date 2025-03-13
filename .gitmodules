@@ -1,0 +1,7 @@
+[submodule "wifebooks.backend"]
+	path = src/wifebooks.backend
+	url = https://github.com/Walfhand/wifebooks.backend.git
+
+[submodule "wifebooks.frontend"]
+	path = src/wifebooks.frontend
+	url = https://github.com/Walfhand/wifebooks.frontend.git
